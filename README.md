@@ -82,6 +82,6 @@
 ---
 
 เทคโนโลยีที่อาจใช้
-Frontend: HTML, CSS, Bootstrap (จากรูปแบบหน้าจอ)
-Backend: Django (Python) สำหรับจัดการฐานข้อมูลและลอจิก
-Database: SQLite/MySQL เพื่อเก็บข้อมูลผู้ใช้, วิชา, และคะแนน
+- Frontend: HTML, CSS, Bootstrap (จากรูปแบบหน้าจอ)
+- Backend: Django (Python) สำหรับจัดการฐานข้อมูลและลอจิก
+- Database: SQLite/MySQL เพื่อเก็บข้อมูลผู้ใช้, วิชา, และคะแนน
